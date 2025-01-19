@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 li:nth-child(even){
-	color:red;
+	color:rgb(255, 0, 0);
 }
 
 li{
