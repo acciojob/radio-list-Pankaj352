@@ -1,8 +1,4 @@
-/*  your css code here. If applicable */
-li:nth-child(even){
-	color:rgb(255, 0, 0);
-}
-
-li{
-	list-style-type:none;
+/* Apply red accent color to even-positioned radio buttons */
+.input:nth-child(even) {
+  accent-color: rgb(255, 0, 0); 
 }
